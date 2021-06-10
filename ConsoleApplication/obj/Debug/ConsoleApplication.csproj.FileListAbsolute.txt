@@ -1,0 +1,10 @@
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.exe
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/ConsoleApplication.pdb
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.exe
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.pdb
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/HtmlAgilityPack.dll
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/HtmlAgilityPack.pdb
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Debug/HtmlAgilityPack.xml
+/Users/mac/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Debug/ConsoleApplication.csproj.CopyComplete
